@@ -10,8 +10,18 @@ const LeftContainer = () => {
       name: "linkedin",
       href: "https://id.linkedin.com/in/restiyana-dwi-astuti/"
     },
-    { name: "github", href: "https://github.com/restiyanada" },
-    { name: "google", href: "mailto:restiyana.dwi@gmail.com" }
+    {
+      name: "github",
+      href: "https://github.com/restiyanada"
+    },
+    {
+      name: "google",
+      href: "mailto:restiyana.dwi@gmail.com"
+    },
+    {
+      name: "twitter",
+      href: "https://twitter.com/restiyn/"
+    }
   ];
 
   return (
