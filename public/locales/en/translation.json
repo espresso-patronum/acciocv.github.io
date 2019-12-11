@@ -1,0 +1,52 @@
+{
+  "page-title": "Restiyana Dwi Astuti - Resume",
+  "now": "Now",
+
+  "bio-1": "Hi, I'm Restiyana Dwi Astuti, a IT ProDIGI participant at Home Credit Indonesia",
+  "bio-2": "A Experienced Software Engineer and Data Science enthusiast with a demonstrated history of experience in the information technology. Skilled in PHP, Python, CSS, HTML, Oracle, Mysql, and Big Data technologies such as Tensor Flow, Predictive Analytics, Artificial Intellegence.",
+  "bio-3": "Highly motivated, goal-oriented; a decision-maker skilled in implementing new ideas and an action-oriented thinker. Willing to learn new things in new environment and also able to do it pretty good for a beginner. Resourceful and detailed-oriented; skilled problem-solver and multi-tasker. Work well independently or on a team. ",
+  "bio-4": "Enthusiast and lover of technology.",
+
+  "exp-title": "Experience",
+  "exp-occupation-1": "IT Prodigi at Home Credit Indonesia",
+  "exp-1-1": "IT ProDIGI is an acceleration program for a 6 months period to identify and develop young & high potential IT talent into IT Specialist or other opportunities within Home Credit (Both in-country and abroad). ProDIGI will be Exposed and do Experiment in 4 different areas of Home Credit's IT team: Business Intelligence Competency Center (BICC), Business Engagement & Architecture, Call Center Technology (Genesys - Cloud Based Call Center Solution), and Application Development.",
+
+  "exp-occupation-2": "Research Assistant",
+  "exp-2-1": "Maintaining records on assignment completion of students who work on the research project.",
+  "exp-2-2": "Prepare progress report.",
+  "exp-2-3": "Write and contribute to publications.",
+  "exp-2-4": "Track research progress over time.",
+
+  "exp-occupation-3": "Assistant Lecturer",
+  "exp-3-1": "Assisted Sophomore year student to write code in Python and makes itself available over the internet and uses a standardized XML messaging system.",
+  "exp-3-2": "Assisted Junior year student to the basic Operating System abstractions, mechanisms, and their implementations, also an introduction to Python programming.",
+
+  "exp-occupation-4": "Junior Programmer Intern at Daya BTPN",
+  "exp-4-1": "Develop Daya internal exiting program (Spektrum)",
+  "exp-4-2": "Testing the module in controlled, real situations before going live. ",
+  "exp-4-3": "Preparation of training manuals for users.",
+
+  "qualifications-title": "Skills",
+  "qualifications-subtitle-1": "Programming Languages:",
+  "qualifications-subtitle-2": "Development Tools:",
+  "qualifications-subtitle-3": "Case Tools:",
+  "qualifications-subtitle-4": "Databases:",
+  "qualifications-desc-1": "PHP, Python, PL/SQL, XML, Java Script, Java, HTML, CSS.;",
+  "qualifications-desc-2": "Microsoft Visual Studio, PyCharm, Eclipse, Git, Adobe Dreamweaver;",
+  "qualifications-desc-3": "UML with Rational Rose and Visio;",
+  "qualifications-desc-4": "MySQL, NoSQL, PostgreSQL and Oracle;",
+
+  "education-title": "Educations",
+  "education-1": "Education",
+
+  "publications-title": "Publications",
+  "publications-1": "Implementation of web scraping on GitHub task monitoring system",
+  "publications-2": "Evolution of information and technology increasingly sophisticated, also influential in the field of education. One of the implementation of information and technology development in the field of education is e-learning or electronic learning. GitHub social network can be one of the e-learning media in studying software development because GitHub provides access control The number of contributors who commits or change in a repository to make the duration of the calculation process to fill the parameter value that has been determined. Based on the issue, this research aims to build a page capable of integrating information from the GitHub repository page. Integration of information will be made by utilizing web scraping technology. With a web page that integrates information from the GitHub repository page to get repository, collaborators, commits, and issues information, the lecturer does not need to calculate how often the participant contributes to the task.",
+
+  "awards-title": "Awards and Achievement",
+  "awards-1": "Best Research Paper at Yudisium Teknik Informatika 2019",
+
+  "languages-title": "Languages",
+  "languages-1": "Indonesia - Native",
+  "languages-2": "English - Professional working proficiency"
+}

@@ -1,0 +1,52 @@
+{
+  "page-title": "Restiyana Dwi Astuti - Curriculum Vitae",
+  "now": "Sekarang",
+
+  "bio-1": "Hi, saya Restiyana Dwi Astuti, saya berpartisipasi pada program IT ProDIGI di Home Credit Indonesia",
+  "bio-2": "Seorang Software Engineer yang memiliki antusias dalam bidang Data Science. Memiliki kemampuan bahasa pemograman PHP, HTML, Python, CSS, database Oracle serta MySQL, serta memiliki kemampuan juga dalam bidang teknologi Big Data seperti Tensorflow, Artificial Intellegence, dan Analisis Prediktif",
+  "bio-3": "Memiliki motivasi tinggi, berorientasi pada tujuan; pembuat keputusan yang terampil dalam mengimplementasikan ide-ide baru dan pemikir yang berorientasi pada tindakan. Bersedia belajar hal-hal baru di lingkungan baru dan juga mampu melakukannya dengan cukup baik untuk pemula. Berorientasi pada detail; pemecah masalah yang terampil dan multi-tasker. Bekerja dengan baik secara individual atau dalam tim.",
+  "bio-4": "Penggemar dan pecinta Teknologi",
+
+  "exp-title": "Pengalaman",
+  "exp-occupation-1": "IT ProDIGI di Home Credit Indonesia",
+  "exp-1-1": "IT ProDIGI adalah program percepatan untuk periode 6 bulan untuk mengidentifikasi dan mengembangkan talenta IT muda & berpotensi tinggi menjadi Spesialis IT atau peluang lain dalam Home Credit (Baik di dalam negeri dan luar negeri). ProDIGI akan diekspos dan melakukan Eksperimen di 4 area berbeda dari tim IT Home Credit: Business Intelligence Competency Center (BICC), Business Engagement & Architecture, Call Center Technology (Genesys - Cloud Based Call Center Solution), dan Application Development.",
+
+  "exp-occupation-2": "Asisten Peneliti",
+  "exp-2-1": "Mengurus catatan pencapaian mahasiswa yang sedang melakukan penelitian",
+  "exp-2-2": "Mempersiapkan laporan kemajuan",
+  "exp-2-3": "Menulis dan berkontribusi pada karya ilmiah atau paper",
+  "exp-2-4": "Memeriksa kemajuan penelitian",
+
+  "exp-occupation-3": "Asisten Dosen",
+  "exp-3-1": "Membantu siswa tahun kedua untuk menulis kode dengan Python dan membuat dirinya tersedia melalui internet dan menggunakan sistem pesan XML standar",
+  "exp-3-2": "Membantu siswa tahun pertama untuk memahami abstraksi Sistem Operasi dasar, mekanisme, dan implementasinya, juga pengantar pemrograman Python.",
+
+  "exp-occupation-4": "Junior Programmer Intern di Daya BTPN",
+  "exp-4-1": "Mengembangkan program internal Daya BTPN (Spektrum)",
+  "exp-4-2": "Test program secara keseluruhan sebelum digunakan",
+  "exp-4-3": "Mempersiapkan training pada user",
+
+  "qualifications-title": "Kemampuan",
+  "qualifications-subtitle-1": "Bahasa Pemrograman:",
+  "qualifications-subtitle-2": "Alat Pengembangan Software:",
+  "qualifications-subtitle-3": "Case Tools:",
+  "qualifications-subtitle-4": "Database:",
+  "qualifications-desc-1": "PHP, Python, PL/SQL, XML, Java Script, Java, HTML, CSS.;",
+  "qualifications-desc-2": "Microsoft Visual Studio, PyCharm, Eclipse, Git, Adobe Dreamweaver;",
+  "qualifications-desc-3": "UML with Rational Rose and Visio;",
+  "qualifications-desc-4": "MySQL, NoSQL, PostgreSQL and Oracle;",
+
+  "education-title": "Riwayat Pendidikan",
+  "education-1": "Riwayat Pendidikan",
+
+  "publications-title": "Publikasi",
+  "publications-1": "Implementation of web scraping on GitHub task monitoring system",
+  "publications-2": "Evolution of information and technology increasingly sophisticated, also influential in the field of education. One of the implementation of information and technology development in the field of education is e-learning or electronic learning. GitHub social network can be one of the e-learning media in studying software development because GitHub provides access control The number of contributors who commits or change in a repository to make the duration of the calculation process to fill the parameter value that has been determined. Based on the issue, this research aims to build a page capable of integrating information from the GitHub repository page. Integration of information will be made by utilizing web scraping technology. With a web page that integrates information from the GitHub repository page to get repository, collaborators, commits, and issues information, the lecturer does not need to calculate how often the participant contributes to the task.",
+
+  "awards-title": "Penghargaan dan Pencapaian",
+  "awards-1": "Best Research Paper at Yudisium Teknik Informatika 2019",
+
+  "languages-title": "Bahasa",
+  "languages-1": "Indonesia - Native",
+  "languages-2": "English - Professional working proficiency"
+}
